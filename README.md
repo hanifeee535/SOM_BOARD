@@ -68,13 +68,13 @@ The SOM integrates high-performance LPDDR4 SDRAM, eMMC storage, dual-band Wi-Fi/
 
 <p align="center">
 
-&nbsp; <img src="Snapshoots/2d\_View.png" width="600" alt="2d" />
+&nbsp; <img src="Snapshoots/2d\_View.png" width="600" alt="2D View" />
 
-&nbsp; <img src="Snapshoots/Layers\_1.png" width="600" alt="Signal\_layer\_1" />
+&nbsp; <img src="Snapshoots/Layers\_1.png" width="600" alt="Layer 1" />
 
-&nbsp; <img src="Snapshoots/layers\_2.png" width="600" alt="Signal\_Layer\_2" />
+&nbsp; <img src="Snapshoots/layers\_2.png" width="600" alt="Layer 2" />
 
-&nbsp; <img src="Snapshoots/layers\_3.png" width="600" alt="Signal\_layer\_3" />
+&nbsp; <img src="Snapshoots/layers\_3.png" width="600" alt="Layer 3" />
 
 </p>
 
@@ -93,6 +93,4 @@ The SOM integrates high-performance LPDDR4 SDRAM, eMMC storage, dual-band Wi-Fi/
 &nbsp; <img src="Snapshoots/3d\_Bottom.png" width="600" alt="3D Bottom" />
 
 </p>
-
-
 
